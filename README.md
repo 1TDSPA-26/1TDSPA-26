@@ -44,7 +44,7 @@
 
 | Conteúdo | Link de Acesso |
 | :--- | :---: |
-| 📚 **Todos os Repositórios da Turma** | [Acessar 🚀](https://github.com/orgs/1TDSPF-26/repositories) |
+| 📚 **Todos os Repositórios da Turma** | [Acessar 🚀](https://github.com/orgs/1TDSPA-26/repositories) |
 
 </div>
 
