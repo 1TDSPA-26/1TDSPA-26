@@ -2,12 +2,6 @@
 <br>
 
 <div align="center">
-  <img height="300" src="./ale-e-ariete%201.jpg"  />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="52" alt="html5 logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="52" alt="javascript logo" />
@@ -16,8 +10,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="52" alt="React logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="52" alt="React logo" />
-  <img width="12" />
+
 </div>
 
 <br>
@@ -25,7 +18,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="52" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="vscode logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="52" alt="vscode logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" alt="github logo" />
 </div>
