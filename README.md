@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="52" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="52" alt="git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="52" alt="vscode logo" />
   <img width="12" />
