@@ -57,10 +57,8 @@
 
 | Atividade / Desafio | Status | Prazo |
 | :--- | :---: | :---: |
-| Challenge Sprints 1 & 2 | ❌ Encerrado | 24 / 05 |
-| GS | ❌ Encerrado | 09 / 06 |
-| Challenge Sprints 3 | ✅ Aberto | 13 / 09 |
-| Challenge Sprints 4 | ⏳ Não iniciado | 04 / 11 |
+| Challenge Sprints 1  |  Aberto | 14 / 09 |
+
 
 </div>
 
@@ -69,14 +67,6 @@
 <div>
 <h1 align="center"> 🔗 | Links Úteis </h1>
   <p align="center"><b>Dontpad da nossa turma:</b></p>
-  <p align="center"><a href="https://dontpad.com/1TDSPF-26" target="_blank">Acesso ao DontPad</a></p>
+  <p align="center"><a href="https://dontpad.com/1TDSPA-26" target="_blank">Acesso ao DontPad</a></p>
   <br>
-  <p align="center"><b>w3schools:</b></p>
-  <p align="center"><a href="https://www.w3schools.com" target="_blank">https://www.w3schools.com</a></p>
-  <br>
-  <p align="center"><b>MDN Web Docs:</b></p>
-  <p align="center"><a href="https://developer.mozilla.org/pt-BR/" target="_blank">https://developer.mozilla.org/pt-BR/</a></p>
-  <br>
-  <p align="center"><b>ARÍETE:</b></p>
-  <p align="center"><a href="https://opal.google/app/1piCs_zGlleVSLW7bVpXF5exMNfrXfhJK/" target="_blank">Clique aqui para acessar o Aríete</a></p>
 </div>
